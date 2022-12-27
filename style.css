@@ -9,7 +9,7 @@ html {
     margin: 0;
     hight: 100%;
     
-    background-image: url('images/background.jpeg');
+    background-color: #FF9900;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
