@@ -1,6 +1,6 @@
 # Linktree (Xoge):sparkles:
 This is a free (and easy to use) alternative to linktree 
-http://www.alisa.social/xoge/
+https://www.alisa.social/xoge/
 
 ## Where to host your website?
 Github Pages: https://pages.github.com  
