@@ -9,7 +9,12 @@ html {
     margin: 0;
     hight: 100%;
     
-    background-color: #FD4024;
+    /* Created with https://www.css-gradient.com */
+    background: #FD4124;
+    background: -webkit-linear-gradient(bottom, #FD4124, #FF9B45);
+    background: -moz-linear-gradient(bottom, #FD4124, #FF9B45);
+    background: linear-gradient(to top, #FD4124, #FF9B45);
+    
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
